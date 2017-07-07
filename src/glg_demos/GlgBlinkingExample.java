@@ -42,7 +42,7 @@ public class GlgBlinkingExample extends GlgJBean implements ActionListener
    public void ReadyCallback( GlgObject viewport )
    {
       if( GetJavaLog() )
-        PrintToJavaConsole( "Debug: Ready\n" );
+        PrintToJavaConsole( "Debugging: Ready\n" );
 
       super.ReadyCallback();
 
