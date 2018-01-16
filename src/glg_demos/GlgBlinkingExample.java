@@ -8,7 +8,7 @@ import com.genlogic.*;
 public class GlgBlinkingExample extends GlgJBean implements ActionListener
 {
    //////////////////////////////////////////////////////////////////////////
-   // The main demo class
+   // The main demo class 2018
    //////////////////////////////////////////////////////////////////////////
 
    static final long serialVersionUID = 0;
